@@ -2,15 +2,15 @@
   {
     "name": "GramFlix Wooka",
     "internalName": "gramflix_wooka",
-    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.8/ExampleProvider.cs3",
-    "version": 9,
+    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.10/ExampleProvider.cs3",
+    "version": 10,
     "apiVersion": 1,
     "status": 1,
     "language": "fr",
     "tvTypes": ["Movie","TvSeries"],
     "iconUrl": "",
     "authors": ["Flo"],
-    "description": "Recherche + extraction iframes",
+    "description": "DooPlay AJAX + fallback iframes",
     "repositoryUrl": "https://github.com/tOntOnbOuLii/GramFlixExt"
   }
 ]
