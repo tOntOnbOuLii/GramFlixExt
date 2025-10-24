@@ -2,8 +2,8 @@
   {
     "name": "GramFlix Wooka",
     "internalName": "gramflix_wooka",
-    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.16/ExampleProvider.cs3",
-    "version": 16,
+    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.17/ExampleProvider.cs3",
+    "version": 17,
     "apiVersion": 1,
     "status": 1,
     "language": "fr",
@@ -16,8 +16,8 @@
   {
     "name": "GramFlix FrenchStream",
     "internalName": "gramflix_frenchstream",
-    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.16/FrenchStreamProvider.cs3",
-    "version": 16,
+    "url": "https://github.com/tOntOnbOuLii/GramFlixExt/releases/download/v1.0.17/FrenchStreamProvider.cs3",
+    "version": 17,
     "apiVersion": 1,
     "status": 1,
     "language": "fr",
