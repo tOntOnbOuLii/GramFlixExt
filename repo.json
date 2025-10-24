@@ -1,0 +1,8 @@
+{
+  "name": "GramFlix",
+  "description": "Repo CloudStream (build compilé)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/tOntOnbOuLii/GramFlixExt/main/plugins.json"
+  ]
+}
